@@ -19,7 +19,7 @@ body {
   
   .square {
     background: #fff;
-    border: 1px solid #999;
+    border: 1px solid rgb(0, 0, 0);
     float: left;
     font-size: 24px;
     font-weight: bold;
@@ -49,3 +49,10 @@ body {
     margin-left: 20px;
   }
   
+  .title{
+    text-align: center;
+  }
+
+  #root {
+    margin: auto;
+  }
